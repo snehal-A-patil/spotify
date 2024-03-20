@@ -1,0 +1,762 @@
+[
+  {
+    "category": "Songs",
+    "resultType": "song",
+    "title": "Lover",
+    "album": {
+      "name": "Lover",
+      "id": "MPREb_6oiqzmwuS9F"
+    },
+    "inLibrary": false,
+    "feedbackTokens": {
+      "add": null,
+      "remove": null
+    },
+    "videoId": "uLL2xTK35Qc",
+    "videoType": "MUSIC_VIDEO_TYPE_ATV",
+    "duration": "3:42",
+    "year": null,
+    "artists": [
+      {
+        "name": "Taylor Swift",
+        "id": "UCPC0L1d253x-KuMNwa05TpA"
+      }
+    ],
+    "duration_seconds": 222,
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/OhxDTHQOQzSrcdgH9hzqzp1v22GYDE-QKnkryvCeq4ddx-3K3_c8oDXN0E6NvHlMn1q4XV59aHr0oL4f=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/OhxDTHQOQzSrcdgH9hzqzp1v22GYDE-QKnkryvCeq4ddx-3K3_c8oDXN0E6NvHlMn1q4XV59aHr0oL4f=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ]
+  },
+  {
+    "category": "Songs",
+    "resultType": "song",
+    "title": "Lover (Remix) (feat. Shawn Mendes)",
+    "album": {
+      "name": "Lover (Remix)",
+      "id": "MPREb_1EC3VMJhU8o"
+    },
+    "inLibrary": false,
+    "feedbackTokens": {
+      "add": null,
+      "remove": null
+    },
+    "videoId": "GCEljC8gZbU",
+    "videoType": "MUSIC_VIDEO_TYPE_ATV",
+    "duration": "3:42",
+    "year": null,
+    "artists": [
+      {
+        "name": "Taylor Swift",
+        "id": "UCPC0L1d253x-KuMNwa05TpA"
+      }
+    ],
+    "duration_seconds": 222,
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/-_Cpr__WJwPixUKwNCWyCN12F64a907YyzKiqdwa68s7WqhJ4sV2V7m-KV40D2VFjUgehA2j-XLhPoc=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/-_Cpr__WJwPixUKwNCWyCN12F64a907YyzKiqdwa68s7WqhJ4sV2V7m-KV40D2VFjUgehA2j-XLhPoc=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ]
+  },
+  {
+    "category": "Songs",
+    "resultType": "song",
+    "title": "Lover",
+    "album": {
+      "name": "MoonChild Era",
+      "id": "MPREb_hv8LEmvUqnE"
+    },
+    "inLibrary": false,
+    "feedbackTokens": {
+      "add": null,
+      "remove": null
+    },
+    "videoId": "KLBtgOzNAgI",
+    "videoType": "MUSIC_VIDEO_TYPE_ATV",
+    "duration": "3:10",
+    "year": null,
+    "artists": [
+      {
+        "name": "Diljit Dosanjh",
+        "id": "UCJ2m-WpROlZCiZZID9r7NSQ"
+      }
+    ],
+    "duration_seconds": 190,
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/gLGphSuFPvlBScr4nsIrHBJevmg5b2iFKK-hKVJ0lZA7c0xHUS53g4EPAB7AfSGNdA_ukz30ii671PYvag=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/gLGphSuFPvlBScr4nsIrHBJevmg5b2iFKK-hKVJ0lZA7c0xHUS53g4EPAB7AfSGNdA_ukz30ii671PYvag=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ]
+  },
+  {
+    "category": "Songs",
+    "resultType": "song",
+    "title": "Paper Rings",
+    "album": {
+      "name": "Lover",
+      "id": "MPREb_6oiqzmwuS9F"
+    },
+    "inLibrary": false,
+    "feedbackTokens": {
+      "add": null,
+      "remove": null
+    },
+    "videoId": "a3FVEgsi5ag",
+    "videoType": "MUSIC_VIDEO_TYPE_ATV",
+    "duration": "3:43",
+    "year": null,
+    "artists": [
+      {
+        "name": "Taylor Swift",
+        "id": "UCPC0L1d253x-KuMNwa05TpA"
+      }
+    ],
+    "duration_seconds": 223,
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/OhxDTHQOQzSrcdgH9hzqzp1v22GYDE-QKnkryvCeq4ddx-3K3_c8oDXN0E6NvHlMn1q4XV59aHr0oL4f=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/OhxDTHQOQzSrcdgH9hzqzp1v22GYDE-QKnkryvCeq4ddx-3K3_c8oDXN0E6NvHlMn1q4XV59aHr0oL4f=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ]
+  },
+  {
+    "category": "Songs",
+    "resultType": "song",
+    "title": "Cruel Summer",
+    "album": {
+      "name": "Lover",
+      "id": "MPREb_6oiqzmwuS9F"
+    },
+    "inLibrary": false,
+    "feedbackTokens": {
+      "add": null,
+      "remove": null
+    },
+    "videoId": "aC9HkZW2hZk",
+    "videoType": "MUSIC_VIDEO_TYPE_ATV",
+    "duration": "2:59",
+    "year": null,
+    "artists": [
+      {
+        "name": "Taylor Swift",
+        "id": "UCPC0L1d253x-KuMNwa05TpA"
+      }
+    ],
+    "duration_seconds": 179,
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/OhxDTHQOQzSrcdgH9hzqzp1v22GYDE-QKnkryvCeq4ddx-3K3_c8oDXN0E6NvHlMn1q4XV59aHr0oL4f=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/OhxDTHQOQzSrcdgH9hzqzp1v22GYDE-QKnkryvCeq4ddx-3K3_c8oDXN0E6NvHlMn1q4XV59aHr0oL4f=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ]
+  },
+  {
+    "category": "Songs",
+    "resultType": "song",
+    "title": "The Man",
+    "album": {
+      "name": "Lover",
+      "id": "MPREb_6oiqzmwuS9F"
+    },
+    "inLibrary": false,
+    "feedbackTokens": {
+      "add": null,
+      "remove": null
+    },
+    "videoId": "1KZ6l73sJ0A",
+    "videoType": "MUSIC_VIDEO_TYPE_ATV",
+    "duration": "3:11",
+    "year": null,
+    "artists": [
+      {
+        "name": "Taylor Swift",
+        "id": "UCPC0L1d253x-KuMNwa05TpA"
+      }
+    ],
+    "duration_seconds": 191,
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/OhxDTHQOQzSrcdgH9hzqzp1v22GYDE-QKnkryvCeq4ddx-3K3_c8oDXN0E6NvHlMn1q4XV59aHr0oL4f=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/OhxDTHQOQzSrcdgH9hzqzp1v22GYDE-QKnkryvCeq4ddx-3K3_c8oDXN0E6NvHlMn1q4XV59aHr0oL4f=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ]
+  },
+  {
+    "category": "Songs",
+    "resultType": "song",
+    "title": "London Boy",
+    "album": {
+      "name": "Lover",
+      "id": "MPREb_6oiqzmwuS9F"
+    },
+    "inLibrary": false,
+    "feedbackTokens": {
+      "add": null,
+      "remove": null
+    },
+    "videoId": "0o0WbQV6OZQ",
+    "videoType": "MUSIC_VIDEO_TYPE_ATV",
+    "duration": "3:11",
+    "year": null,
+    "artists": [
+      {
+        "name": "Taylor Swift",
+        "id": "UCPC0L1d253x-KuMNwa05TpA"
+      }
+    ],
+    "duration_seconds": 191,
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/OhxDTHQOQzSrcdgH9hzqzp1v22GYDE-QKnkryvCeq4ddx-3K3_c8oDXN0E6NvHlMn1q4XV59aHr0oL4f=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/OhxDTHQOQzSrcdgH9hzqzp1v22GYDE-QKnkryvCeq4ddx-3K3_c8oDXN0E6NvHlMn1q4XV59aHr0oL4f=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ]
+  },
+  {
+    "category": "Songs",
+    "resultType": "song",
+    "title": "Cornelia Street",
+    "album": {
+      "name": "Lover",
+      "id": "MPREb_6oiqzmwuS9F"
+    },
+    "inLibrary": false,
+    "feedbackTokens": {
+      "add": null,
+      "remove": null
+    },
+    "videoId": "bqJ9I-3MG1g",
+    "videoType": "MUSIC_VIDEO_TYPE_ATV",
+    "duration": "4:48",
+    "year": null,
+    "artists": [
+      {
+        "name": "Taylor Swift",
+        "id": "UCPC0L1d253x-KuMNwa05TpA"
+      }
+    ],
+    "duration_seconds": 288,
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/OhxDTHQOQzSrcdgH9hzqzp1v22GYDE-QKnkryvCeq4ddx-3K3_c8oDXN0E6NvHlMn1q4XV59aHr0oL4f=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/OhxDTHQOQzSrcdgH9hzqzp1v22GYDE-QKnkryvCeq4ddx-3K3_c8oDXN0E6NvHlMn1q4XV59aHr0oL4f=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ]
+  },
+  {
+    "category": "Songs",
+    "resultType": "song",
+    "title": "Death By A Thousand Cuts",
+    "album": {
+      "name": "Lover",
+      "id": "MPREb_6oiqzmwuS9F"
+    },
+    "inLibrary": false,
+    "feedbackTokens": {
+      "add": null,
+      "remove": null
+    },
+    "videoId": "KNp1yY9s5dc",
+    "videoType": "MUSIC_VIDEO_TYPE_ATV",
+    "duration": "3:19",
+    "year": null,
+    "artists": [
+      {
+        "name": "Taylor Swift",
+        "id": "UCPC0L1d253x-KuMNwa05TpA"
+      }
+    ],
+    "duration_seconds": 199,
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/OhxDTHQOQzSrcdgH9hzqzp1v22GYDE-QKnkryvCeq4ddx-3K3_c8oDXN0E6NvHlMn1q4XV59aHr0oL4f=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/OhxDTHQOQzSrcdgH9hzqzp1v22GYDE-QKnkryvCeq4ddx-3K3_c8oDXN0E6NvHlMn1q4XV59aHr0oL4f=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ]
+  },
+  {
+    "category": "Songs",
+    "resultType": "song",
+    "title": "I Think He Knows",
+    "album": {
+      "name": "Lover",
+      "id": "MPREb_6oiqzmwuS9F"
+    },
+    "inLibrary": false,
+    "feedbackTokens": {
+      "add": null,
+      "remove": null
+    },
+    "videoId": "eOn_3lSlbzU",
+    "videoType": "MUSIC_VIDEO_TYPE_ATV",
+    "duration": "2:54",
+    "year": null,
+    "artists": [
+      {
+        "name": "Taylor Swift",
+        "id": "UCPC0L1d253x-KuMNwa05TpA"
+      }
+    ],
+    "duration_seconds": 174,
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/OhxDTHQOQzSrcdgH9hzqzp1v22GYDE-QKnkryvCeq4ddx-3K3_c8oDXN0E6NvHlMn1q4XV59aHr0oL4f=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/OhxDTHQOQzSrcdgH9hzqzp1v22GYDE-QKnkryvCeq4ddx-3K3_c8oDXN0E6NvHlMn1q4XV59aHr0oL4f=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ]
+  },
+  {
+    "category": "Songs",
+    "resultType": "song",
+    "title": "Afterglow",
+    "album": {
+      "name": "Lover",
+      "id": "MPREb_6oiqzmwuS9F"
+    },
+    "inLibrary": false,
+    "feedbackTokens": {
+      "add": null,
+      "remove": null
+    },
+    "videoId": "oNiyHQhYqTc",
+    "videoType": "MUSIC_VIDEO_TYPE_ATV",
+    "duration": "3:44",
+    "year": null,
+    "artists": [
+      {
+        "name": "Taylor Swift",
+        "id": "UCPC0L1d253x-KuMNwa05TpA"
+      }
+    ],
+    "duration_seconds": 224,
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/OhxDTHQOQzSrcdgH9hzqzp1v22GYDE-QKnkryvCeq4ddx-3K3_c8oDXN0E6NvHlMn1q4XV59aHr0oL4f=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/OhxDTHQOQzSrcdgH9hzqzp1v22GYDE-QKnkryvCeq4ddx-3K3_c8oDXN0E6NvHlMn1q4XV59aHr0oL4f=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ]
+  },
+  {
+    "category": "Songs",
+    "resultType": "song",
+    "title": "Lover (First Dance Remix)",
+    "album": {
+      "name": "Lover (First Dance Remix)",
+      "id": "MPREb_OJ5v62Ss0z5"
+    },
+    "inLibrary": false,
+    "feedbackTokens": {
+      "add": null,
+      "remove": null
+    },
+    "videoId": "g4pwsivY5rc",
+    "videoType": "MUSIC_VIDEO_TYPE_ATV",
+    "duration": "3:54",
+    "year": null,
+    "artists": [
+      {
+        "name": "Taylor Swift",
+        "id": "UCPC0L1d253x-KuMNwa05TpA"
+      }
+    ],
+    "duration_seconds": 234,
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/kmlFjKn5ckYj6Tp0-aXRUcAQAa7dDLwoWd0uOmu8-RN3uYZv17LIcE8L1q5wa9ESaklfehjnpfQWlKQ=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/kmlFjKn5ckYj6Tp0-aXRUcAQAa7dDLwoWd0uOmu8-RN3uYZv17LIcE8L1q5wa9ESaklfehjnpfQWlKQ=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ]
+  },
+  {
+    "category": "Songs",
+    "resultType": "song",
+    "title": "cardigan",
+    "album": {
+      "name": "folklore",
+      "id": "MPREb_VLEl8SjepHO"
+    },
+    "inLibrary": false,
+    "feedbackTokens": {
+      "add": null,
+      "remove": null
+    },
+    "videoId": "M_lVZIpgnjU",
+    "videoType": "MUSIC_VIDEO_TYPE_ATV",
+    "duration": "4:00",
+    "year": null,
+    "artists": [
+      {
+        "name": "Taylor Swift",
+        "id": "UCPC0L1d253x-KuMNwa05TpA"
+      }
+    ],
+    "duration_seconds": 240,
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/q7JVahTldHxztLXfCJfgjf5DHr9mi18m2HKpS_IJqBqvvzfAJKPCh_rg-9v-aoGqp-Cc6PHW3ceFMlIQ=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/q7JVahTldHxztLXfCJfgjf5DHr9mi18m2HKpS_IJqBqvvzfAJKPCh_rg-9v-aoGqp-Cc6PHW3ceFMlIQ=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ]
+  },
+  {
+    "category": "Songs",
+    "resultType": "song",
+    "title": "The Archer",
+    "album": {
+      "name": "Lover",
+      "id": "MPREb_6oiqzmwuS9F"
+    },
+    "inLibrary": false,
+    "feedbackTokens": {
+      "add": null,
+      "remove": null
+    },
+    "videoId": "3sAdg1N-byw",
+    "videoType": "MUSIC_VIDEO_TYPE_ATV",
+    "duration": "3:32",
+    "year": null,
+    "artists": [
+      {
+        "name": "Taylor Swift",
+        "id": "UCPC0L1d253x-KuMNwa05TpA"
+      }
+    ],
+    "duration_seconds": 212,
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/OhxDTHQOQzSrcdgH9hzqzp1v22GYDE-QKnkryvCeq4ddx-3K3_c8oDXN0E6NvHlMn1q4XV59aHr0oL4f=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/OhxDTHQOQzSrcdgH9hzqzp1v22GYDE-QKnkryvCeq4ddx-3K3_c8oDXN0E6NvHlMn1q4XV59aHr0oL4f=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ]
+  },
+  {
+    "category": "Songs",
+    "resultType": "song",
+    "title": "Blank Space",
+    "album": {
+      "name": "1989 (Deluxe)",
+      "id": "MPREb_JiAQrbUtBdP"
+    },
+    "inLibrary": false,
+    "feedbackTokens": {
+      "add": null,
+      "remove": null
+    },
+    "videoId": "dC9QIUKviJU",
+    "videoType": "MUSIC_VIDEO_TYPE_ATV",
+    "duration": "3:52",
+    "year": null,
+    "artists": [
+      {
+        "name": "Taylor Swift",
+        "id": "UCPC0L1d253x-KuMNwa05TpA"
+      }
+    ],
+    "duration_seconds": 232,
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/GcrDhHXqrPm4BjS-4L1c0OHC9iz0ZxmFeRur2A6Aqo9Vm7OfFCBOSVbRzp1M1D1s_3rsvKaC7w6kku0=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/GcrDhHXqrPm4BjS-4L1c0OHC9iz0ZxmFeRur2A6Aqo9Vm7OfFCBOSVbRzp1M1D1s_3rsvKaC7w6kku0=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ]
+  },
+  {
+    "category": "Songs",
+    "resultType": "song",
+    "title": "I Forgot That You Existed",
+    "album": {
+      "name": "Lover",
+      "id": "MPREb_6oiqzmwuS9F"
+    },
+    "inLibrary": false,
+    "feedbackTokens": {
+      "add": null,
+      "remove": null
+    },
+    "videoId": "gLLE3B75UJw",
+    "videoType": "MUSIC_VIDEO_TYPE_ATV",
+    "duration": "2:51",
+    "year": null,
+    "artists": [
+      {
+        "name": "Taylor Swift",
+        "id": "UCPC0L1d253x-KuMNwa05TpA"
+      }
+    ],
+    "duration_seconds": 171,
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/OhxDTHQOQzSrcdgH9hzqzp1v22GYDE-QKnkryvCeq4ddx-3K3_c8oDXN0E6NvHlMn1q4XV59aHr0oL4f=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/OhxDTHQOQzSrcdgH9hzqzp1v22GYDE-QKnkryvCeq4ddx-3K3_c8oDXN0E6NvHlMn1q4XV59aHr0oL4f=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ]
+  },
+  {
+    "category": "Songs",
+    "resultType": "song",
+    "title": "It\u2019s Nice To Have A Friend",
+    "album": {
+      "name": "Lover",
+      "id": "MPREb_6oiqzmwuS9F"
+    },
+    "inLibrary": false,
+    "feedbackTokens": {
+      "add": null,
+      "remove": null
+    },
+    "videoId": "pVpO3zc4Shs",
+    "videoType": "MUSIC_VIDEO_TYPE_ATV",
+    "duration": "2:31",
+    "year": null,
+    "artists": [
+      {
+        "name": "Taylor Swift",
+        "id": "UCPC0L1d253x-KuMNwa05TpA"
+      }
+    ],
+    "duration_seconds": 151,
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/OhxDTHQOQzSrcdgH9hzqzp1v22GYDE-QKnkryvCeq4ddx-3K3_c8oDXN0E6NvHlMn1q4XV59aHr0oL4f=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/OhxDTHQOQzSrcdgH9hzqzp1v22GYDE-QKnkryvCeq4ddx-3K3_c8oDXN0E6NvHlMn1q4XV59aHr0oL4f=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ]
+  },
+  {
+    "category": "Songs",
+    "resultType": "song",
+    "title": "ME! (feat. Brendon Urie)",
+    "album": {
+      "name": "Lover",
+      "id": "MPREb_6oiqzmwuS9F"
+    },
+    "inLibrary": false,
+    "feedbackTokens": {
+      "add": null,
+      "remove": null
+    },
+    "videoId": "M3G1Y7VL200",
+    "videoType": "MUSIC_VIDEO_TYPE_ATV",
+    "duration": "3:13",
+    "year": null,
+    "artists": [
+      {
+        "name": "Taylor Swift",
+        "id": "UCPC0L1d253x-KuMNwa05TpA"
+      }
+    ],
+    "duration_seconds": 193,
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/OhxDTHQOQzSrcdgH9hzqzp1v22GYDE-QKnkryvCeq4ddx-3K3_c8oDXN0E6NvHlMn1q4XV59aHr0oL4f=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/OhxDTHQOQzSrcdgH9hzqzp1v22GYDE-QKnkryvCeq4ddx-3K3_c8oDXN0E6NvHlMn1q4XV59aHr0oL4f=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ]
+  },
+  {
+    "category": "Songs",
+    "resultType": "song",
+    "title": "Love Story (Taylor\u2019s Version)",
+    "album": {
+      "name": "Love Story (Taylor\u2019s Version)",
+      "id": "MPREb_LZmw4oUBUnJ"
+    },
+    "inLibrary": false,
+    "feedbackTokens": {
+      "add": null,
+      "remove": null
+    },
+    "videoId": "e7yg0A-PCTI",
+    "videoType": "MUSIC_VIDEO_TYPE_ATV",
+    "duration": "3:56",
+    "year": null,
+    "artists": [
+      {
+        "name": "Taylor Swift",
+        "id": "UCPC0L1d253x-KuMNwa05TpA"
+      }
+    ],
+    "duration_seconds": 236,
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/huIYugJjpimikk-tSDJyDU09Jr8vDVJuLOh5uGG6T45c5MEtYvFW_9NlqkHHSaLl231kLBgAS8rtDfQ=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/huIYugJjpimikk-tSDJyDU09Jr8vDVJuLOh5uGG6T45c5MEtYvFW_9NlqkHHSaLl231kLBgAS8rtDfQ=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ]
+  },
+  {
+    "category": "Songs",
+    "resultType": "song",
+    "title": "ME! (feat. Brendon Urie)",
+    "album": {
+      "name": "ME!",
+      "id": "MPREb_6RWxu29iFWi"
+    },
+    "inLibrary": false,
+    "feedbackTokens": {
+      "add": null,
+      "remove": null
+    },
+    "videoId": "ZBFZHOyFMO4",
+    "videoType": "MUSIC_VIDEO_TYPE_ATV",
+    "duration": "3:14",
+    "year": null,
+    "artists": [
+      {
+        "name": "Taylor Swift",
+        "id": "UCPC0L1d253x-KuMNwa05TpA"
+      }
+    ],
+    "duration_seconds": 194,
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/YPi39oUuRdFNR4fC7DzycgcoltsmsIZNYTfjSwcA3DxvEE7e6YySf_NEs8AKgiFFiZtyCtHzVi8fCOAO=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/YPi39oUuRdFNR4fC7DzycgcoltsmsIZNYTfjSwcA3DxvEE7e6YySf_NEs8AKgiFFiZtyCtHzVi8fCOAO=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ]
+  }
+]
